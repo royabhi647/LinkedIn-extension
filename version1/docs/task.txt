@@ -1,0 +1,8 @@
+Install extension. See "Hello World" on the console.
+Create the "Saved Posts" btn
+Beautify it.
+Enable the click of the btn and log something
+Open saved posts on the click of this btn
+Make a kbd shortcut work and log something
+Make a kbd shortcut open saved posts
+Make the code listen and log.
